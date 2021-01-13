@@ -33,3 +33,6 @@ Jurusan Teknik Informatika, Prodi Teknik Informatika, UNESA
 ![Masuk](https://github.com/kokohi28/attendance-project/blob/master/masuk_sample.png?raw=true)
 ![Riwayat](https://github.com/kokohi28/attendance-project/blob/master/riwayat_sample.png?raw=true)
 
+## Demo Youtube
+https://youtu.be/MT8-njVWMlc
+
