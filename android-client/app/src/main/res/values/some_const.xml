@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Image compression constant -->
+    <integer name="max_width_compressed_image">1280</integer>
+    <integer name="max_height_compressed_image">720</integer>
+    <integer name="quality_compressed_image">60</integer>
+</resources>

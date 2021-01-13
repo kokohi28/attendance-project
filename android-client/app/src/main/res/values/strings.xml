@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Absensi</string>
+
+    <string name="src">https://divt-attendance-test.herokuapp.com/</string>
+    <string name="in_attendance">Absen Datang</string>
+    <string name="out_attendance">Absen Pulang</string>
+    <string name="history_attendance">Riwayat Absensi</string>
+
+    <string name="email" translatable="false">Email</string>
+    <string name="address">Address</string>
+    <string name="email_login_hint" translatable="false">Login email</string>
+    <string name="password_hint">Password</string>
+    <string name="success_login">Sukses Login</string>
+
+    <string name="login_message">Masukan email dan password yang diberikan pengembang</string>
+    <string name="btn_login" translatable="false">LOGIN</string>
+
+    <string name="error_generic">Terjadi kesalahan!</string>
+    <string name="error_invalid_email">Email tidak valid</string>
+    <string name="error_invalid_password">Password terlalu pendek</string>
+    <string name="error_incorrect_password">Password salah</string>
+    <string name="error_field_required">Lengkapi isian yang disediakan</string>
+    <string name="error_user_not_found">User tidak ditemukan</string>
+    <string name="error_auth_error">Kesalahan otentikasi</string>
+    <string name="logout">Logout</string>
+    <string name="choose_outlet_colon">Pilih Outlet :</string>
+    <string name="choose_shift_colon">Pilih Shift :</string>
+
+    <string name="picture_taken">Foto diambil</string>
+    <string name="aspect_ratio">Aspect ratio</string>
+    <string name="switch_flash">Switch flash</string>
+    <string name="switch_camera">Switch camera</string>
+    <string name="flash_auto">Flash auto</string>
+    <string name="flash_off">Flash off</string>
+    <string name="flash_on">Flash on</string>
+    <string name="take_photo">Ambil Foto</string>
+    <string name="attendance_photo_ready">Foto absen siap</string>
+    <string name="present">Hadir</string>
+    <string name="attendance_photo">Foto Absensi</string>
+    <string name="photo_colon">Foto :</string>
+    <string name="fill_req_field">Lengkapi isian yang diberikan!</string>
+    <string name="success_present">Sukses absensi hadir</string>
+    <string name="leave">Pulang</string>
+    <string name="income_rp">Pemasukan (Rp.) :</string>
+    <string name="income_hint">Rupiah Pemasukan</string>
+    <string name="no_in_attendance">Anda belum absen datang.</string>
+    <string name="already_in_attendance">Anda sudah absen datang, absen pulang sebelum memulai absen baru.</string>
+    <string name="success">Sukses</string>
+
+    <string-array name="array_shift">
+        <item>1. 06:00 - 14.00</item>
+        <item>2. 14:00 - 22.00</item>
+        <item>3. 22:00 - 06.00</item>
+    </string-array>
+</resources>
