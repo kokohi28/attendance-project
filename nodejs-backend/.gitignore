@@ -1,0 +1,15 @@
+/node_modules
+node_modules/
+/files
+files/
+/files-in
+files-in/
+/logs
+logs/
+/creds
+creds/
+/cert
+cert/
+/res
+res/
+package-lock.json
